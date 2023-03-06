@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning GitHub and DataScience
+- ⚡ Soy de Colombia 
 
 <!--
 **kdbustos/kdbustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
